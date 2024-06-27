@@ -19,6 +19,6 @@ Route Planner is a React and TypeScript application that calculates the total di
 * React Select
 * React Router
 
-### Deployment
+## Deployment
 
 Deployed to Vercel.
